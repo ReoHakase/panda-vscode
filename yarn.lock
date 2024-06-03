@@ -2221,6 +2221,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@pnpm/error@npm:5.0.3":
+  version: 5.0.3
+  resolution: "@pnpm/error@npm:5.0.3"
+  dependencies:
+    "@pnpm/constants": "npm:7.1.1"
+  checksum: 4b51673d582d9c7740fca6e1cb87db72e1b5ae2f06bea0c66c5b1a757e8fb4387c1c751f474cb18da502bd4f32145d76a8e2c8cf65b054b28b834b9d4cbb4dde
+  languageName: node
+  linkType: hard
+
 "@pnpm/exportable-manifest@npm:^5.0.5":
   version: 5.0.9
   resolution: "@pnpm/exportable-manifest@npm:5.0.9"
@@ -2268,12 +2277,12 @@ __metadata:
   linkType: hard
 
 "@pnpm/find-workspace-dir@npm:^6.0.2":
-  version: 6.0.2
-  resolution: "@pnpm/find-workspace-dir@npm:6.0.2"
+  version: 6.0.3
+  resolution: "@pnpm/find-workspace-dir@npm:6.0.3"
   dependencies:
-    "@pnpm/error": "npm:5.0.2"
+    "@pnpm/error": "npm:5.0.3"
     find-up: "npm:^5.0.0"
-  checksum: f881b8e3caa7fa3483cea35fe71a58c11e88eb9c026da8bdcaf4198bb2456fec0e96f3c9c402ce08367931245ef32d85d4bf44738e141155208aecde77698ab2
+  checksum: eca18f8b0c53f364fb97cc3c0b4675bb527a8b472cdd6a32a55fa93e0641349eefa063cb2baec8b57878ca962a8b518e865d0aa3bed790d2f867418aad5ec8c9
   languageName: node
   linkType: hard
 
